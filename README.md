@@ -13,7 +13,7 @@ I just set up a channel on the Elixir slack, so if you are on there join #rethin
 * Extract Changefeed out into separate [package](https://github.com/hamiltop/rethinkdb_changefeed)
 * Accept keyword options with queries
 
-##Getting Started
+## Getting Started
 
 See [API documentation](http://hexdocs.pm/rethinkdb/) for more details.
 
